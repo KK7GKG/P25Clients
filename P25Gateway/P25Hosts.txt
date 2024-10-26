@@ -261,6 +261,9 @@
 # 5000 ALL THE COMMS
 5000	p25.p25stuff.com	41000
 
+# 5030 KK7GKG Salt Lake
+5030  600793.redmtncomms.com  41000
+
 # 5057 VK7 TAS (hosted by VK7HSE)
 5057	45.248.50.37	41000
 
